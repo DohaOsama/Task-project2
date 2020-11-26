@@ -1,0 +1,41 @@
+.card img{
+height: 250px;
+width: 100%;
+border-radius: 30px;
+
+}
+.card{
+    box-shadow:2px 2px gray;
+    margin-top: 25px;
+    border-radius: 25px;
+}
+
+    .card .card-body{
+        text-align: center;
+
+    }
+    .bb{
+        background-color: lightslategray;
+    
+
+    }
+
+    .card .btn {
+background-color: lightsalmon;
+border-radius: 25px;
+    }
+    .navbar-brand img{
+        width:100px;
+        height:60px;
+    }
+footer{
+    background-color:lemonchiffon;
+
+}
+footer .btn{
+    background-color: lightcoral;
+    border-radius: 100px;
+}
+footer .form-control{
+    border-radius: 100px;
+}
